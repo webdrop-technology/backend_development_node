@@ -44,3 +44,12 @@ app.listen(port,()=>{
   npm i dotenv
 
   create new file .env for environmental configuration
+
+  // host your application
+  cloud ocean    https://cloud.digitalocean.com/
+  digitalocean
+heroku
+railway.app
+seenode
+render
+cyclic.sh
